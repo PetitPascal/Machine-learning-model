@@ -29,7 +29,7 @@ These models can therefore be shared publicly without risk of revealing any sens
 
 General-purpose scripts for saving, loading, and using models are stored in a separate repository:
 
-➡️ **[Script repository](https://github.com/PetitPascal/R-scripts/tree/main)**
+**[Script repository](https://github.com/PetitPascal/R-scripts/tree/main)**
 
 
 ---
