@@ -14,6 +14,8 @@ new_data <- data.frame(TM_know=c(1,4),barrier_tech=c(0,1),internet_connect=c(0,1
                        age=c(4,1),female=c(0,1),male=c(0,0),gen_med=c(0,1),int_med=c(0,0),cardio=c(1,0),prime_care=c(0,1),
                        location=c(3,1),nb_patient=c(100,21))
 
+new_data<-new_data %>% select(loaded_model$feature_names)
+
 #---------------------------------------------------------
 ## 3. Making predictions 
 predictions <- predict(loaded_model, newdata = as.matrix(new_data))
