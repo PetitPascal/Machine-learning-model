@@ -1,4 +1,8 @@
 #---------------------------------------------------------
+## 0. Package loading
+library(tidyverse)
+
+#---------------------------------------------------------
 ## 1. Loading the saved model
 loaded_model <- readRDS("TED_xgb_model.rds")
 
