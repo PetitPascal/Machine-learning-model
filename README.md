@@ -39,6 +39,8 @@ General-purpose scripts for saving, loading, and using models are stored in a se
 If you use any model from this repository, please cite the corresponding study.  
 Please refer to the individual study folders for details.
 
+Please also cite this repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17713877.svg)](https://doi.org/10.5281/zenodo.17713877)
+
 GitHub repository citation:
 
 https://github.com/PetitPascal/Machine-learning-model
