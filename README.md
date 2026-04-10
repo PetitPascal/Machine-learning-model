@@ -55,17 +55,17 @@ For questions regarding the models or associated studies:
 
 email: pascal.petit@univ-grenoble-alpes.fr
 
-*ORCID*: https://orcid.org/0000-0001-9015-5230
+•	*ORCID*: https://orcid.org/0000-0001-9015-5230
 
-*ResearchGate*: https://www.researchgate.net/profile/Pascal-Petit-3
+•	*ResearchGate*: https://www.researchgate.net/profile/Pascal-Petit-3
 
-*Google Scholar*: https://scholar.google.fr/citations?user=ja8PT6MAAAAJ&hl=fr
+•	*Google Scholar*: https://scholar.google.fr/citations?user=ja8PT6MAAAAJ&hl=fr
 
-*Web Of Science*: https://www.webofscience.com/wos/author/record/M-4351-2017
+•	*Web Of Science*: https://www.webofscience.com/wos/author/record/M-4351-2017
 
-*HAL*: https://hal.science/search/index/q/*/authIdHal_s/pascal-petit
+•	*HAL*: https://hal.science/search/index/q/*/authIdHal_s/pascal-petit
 
-*Thèse.fr*: https://theses.fr/223750166
+•	*Thèse.fr*: https://theses.fr/223750166
 
 ***Current affiliation***: Univ. Grenoble Alpes, CNRS, Grenoble INP*, LIG, 38000 Grenoble, France
 *Institute of Engineering Univ. Grenoble Alpes
