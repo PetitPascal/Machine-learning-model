@@ -80,4 +80,11 @@ email: pascal.petit@univ-grenoble-alpes.fr
 •	CHU Grenoble Alpes, Centre Régional de Pathologies Professionnelles et Environnementales, 38000 Grenoble, France
 
 ---
+My research has been partially supported by:
+
+•	The French government, through the National Research Agency (ANR - Agence Nationale de la Recherche), under the *France 2030* program (MIAI Cluster), grant **ANR-23-IACL-0006** (February 2025 – present).
+•	The French government, through the ANR, under the *Investissements d’avenir* program, grants **ANR-10-AIRT-0005** and **ANR-15-IDEX-0002** (September 2022 – April 2026).
+•	*MIAI@Grenoble Alpes*, grant **ANR-19-P3IA-0003** (October 2018 – January 2025).
+
+---
 If you find these models useful, please star this repository and cite the DOI in your research!
