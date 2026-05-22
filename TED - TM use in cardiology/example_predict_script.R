@@ -1,6 +1,7 @@
 #---------------------------------------------------------
 ## 0. Package loading
 library(tidyverse)
+library(xgboost) # version 1.7.11.1 is required for the model to be used
 
 #---------------------------------------------------------
 ## 1. Loading the saved model
