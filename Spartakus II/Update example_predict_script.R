@@ -4,6 +4,7 @@
 
 # Package loading
 library(tidyverse)
+library(xgboost) # version 1.7.11.1 is required for the model to be used
 
 #---------------------------------------------------------
 ## 1. Loading the saved model
@@ -45,16 +46,22 @@ new_data <- data.frame(Age=c(20,45),Diagnosis_1=c(0,1),Diagnosis_3=c(0,1),Diagno
 
 new_data<-new_data %>% select(loaded_model$feature_names)
 
+#---------------------------------------------------------
+## 3. Making predictions 
+predictions <- predict(loaded_model, newdata = as.matrix(new_data))
+print(predictions)
+
 #########################################
 ## Patient journey (3-level ordinal class: poor/problematic, okay, good/excellent)
 #########################################
 
 # Package loading
 library(tidyverse)
+library(xgboost) # version 1.7.11.1 is required for the model to be used
 
 #---------------------------------------------------------
 ## 1. Loading the saved model
-loaded_model <- readRDS("Total illness duration_XGBoost_model.rds")
+loaded_model <- readRDS("Patient journey_XGBoost_model.rds")
 
 #---------------------------------------------------------
 ## 2. Preparing new data for prediction
